@@ -4,6 +4,7 @@
 
 ## About KAROSHI
 
+* [Philosophy](about-karoshi/philosophy.md)
 * [Vision and Values](about-karoshi/vision-and-values.md)
 * [Meet the Team!](about-karoshi/meet-the-team.md)
 
