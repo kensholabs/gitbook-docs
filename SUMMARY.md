@@ -6,9 +6,10 @@
 
 * [Philosophy](about-karoshi/philosophy.md)
 * [Vision and Values](about-karoshi/vision-and-values.md)
+* [Manifesto](about-karoshi/manifesto.md)
 * [Meet the Team!](about-karoshi/meet-the-team.md)
 
 ## The Formal Stuff
 
-* [Roadmap](the-formal-stuff/roadmap.md)
+* [Roadmap](the-formal-stuff/requesting-time-off.md)
 * [Filing Expenses](the-formal-stuff/filing-expenses.md)
