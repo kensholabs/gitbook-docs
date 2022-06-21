@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/1075902.jpg
-coverY: 1847.8756476683939
+coverY: 1350.4663212435235
 ---
 
 # Roadmap
