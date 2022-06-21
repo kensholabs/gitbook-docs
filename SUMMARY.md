@@ -5,8 +5,9 @@
 ## About KAROSHI
 
 * [Philosophy](about-karoshi/philosophy.md)
-* [Vision and Values](about-karoshi/vision-and-values.md)
 * [Manifesto](about-karoshi/manifesto.md)
+* [Vision and Values](about-karoshi/vision-and-values.md)
+* [A pragmatic approach](about-karoshi/a-pragmatic-approach.md)
 * [Meet the Team!](about-karoshi/meet-the-team.md)
 
 ## The Formal Stuff
