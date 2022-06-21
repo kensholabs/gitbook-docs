@@ -8,9 +8,15 @@ coverY: 0
 
 ## Our Vision
 
-The essential idea of a DAO is to automate all of the agreements needed to coordinate a group of individuals to accomplish the work of an organization – in other words, to replace the centralized overhead of a conventional business with code. Some have cautioned that not all decentralized structures are truly autonomous unless control is ceded to code, as opposed to human control. And we have a lot of anti-examples where some actors only use the buzz words without any intention to be truly autonomous nor decentralized. This has brought the crypto space to a point where projects "getting hacked" is the new norm and it's even become normalized. Even though some aspects of a blockchain can be hacked, like smart contracts, wallets, or people through phishing or social engineering, the underlying fundamental are secure and with over a decade of proof. It all comes down to human factor and the use of technology.
+The essential idea of a DAO is to automate all of the agreements needed to coordinate a group of individuals to accomplish the work of an organization – in other words, to replace the centralized overhead of a conventional business with code. Some have cautioned that not all decentralized structures are truly autonomous unless control is ceded to code, as opposed to human control.&#x20;
 
+And we have a lot of anti-examples where some actors only use the buzz words without any intention to be truly autonomous nor decentralized. This has brought the crypto space to a point where projects "getting hacked" is the new norm and it's even become normalized. Even though some aspects of a blockchain can be hacked, like smart contracts, wallets, or people through phishing or social engineering, the underlying fundamental are secure and with over a decade of proof. It all comes down to human factor and the use of technology.
 
+Karoshi is a WEB 3.0 brand that makes social impact by building the right things, raising awareness about modern problems, and are passionate about what we are doing. Our goal is to build a community and give that community a way to represent itself online.
+
+We are going to achieve this by providing real utilities that people use, social perks, being transparent with aligned incentives with our holders, making partnerships with established brands and projects and full IP rights to holders. We don't create jpeg's, we create experiences!
+
+Karoshi is truly owned and led by the community, and WAGMI for sure! The question is: Are you going to build with us or you're gonna fomo into the next rug and blame the industry as a whole?
 
 ## Our Values
 
