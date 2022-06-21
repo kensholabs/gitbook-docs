@@ -1,7 +1,7 @@
 ---
 description: Welcome to the company wiki! Here you'll find everything!
-cover: .gitbook/assets/MOSHED-2022-6-21-3-27-33.jpg
-coverY: -14.780058651026394
+cover: .gitbook/assets/MOSHED-2022-6-21-3-27-33.png
+coverY: 0
 ---
 
 # Welcome!
