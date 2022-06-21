@@ -13,5 +13,5 @@
 
 ## The Formal Stuff
 
-* [Lightpaper](the-formal-stuff/lightpaper.md)
 * [Roadmap](the-formal-stuff/requesting-time-off.md)
+* [Lightpaper](the-formal-stuff/lightpaper.md)
