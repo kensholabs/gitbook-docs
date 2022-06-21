@@ -11,7 +11,7 @@ Kind of ironic, when examining the Taoist philosophy of "action without delibera
 
 The central tenet of Taoism, wu-wei (traditional Chinese: 無爲, simplified: 无为, pinyin: wú wéi), has been translated to “action without deliberation.” Wei connotes intention or deliberation and wu conveys the meaning of “lacking” or “without,” resulting in the alternative translations “non-action,” “effortless action,” or “action without intent.”
 
-### What is DAO?
+### What is Dao?
 
 In Chinese, the word ‘Tao’, also  means ‘the way’, the force that flows through all life in the universe. It is considered to be the driving force behind everything that exists. The objective of Taoism is for a person to align harmoniously with the ‘Tao’ i.e. to achieve immortality by taking the right path in life. In standard Chinese, the term ‘道’ is pronounced as ‘Tao’ with a tone. However, the same tone cannot be reproduced by most native English speakers, which is why, the term ‘道’ is pronounced as ‘Dao’ by them.
 
