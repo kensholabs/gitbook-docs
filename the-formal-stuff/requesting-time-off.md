@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/981.jpg
-coverY: 0
+cover: ../.gitbook/assets/1075902.jpg
+coverY: 1686.217616580311
 ---
 
 # Roadmap
