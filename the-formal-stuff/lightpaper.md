@@ -6,7 +6,7 @@ KAROSHI is the genesis collection, consisting of 10000 Ninjas and Samurais with 
 
 ### Background
 
-
+NFT's should be about artists and creators. It SHOULD be, but in the current market it isn't. From the first NFT drops until now we've seen a lot going on and the path is pretty clear. Artists get a cut, or worse their art is even stolen and in the end, whoever markets itself best wins. And there's nothing wrong with marketing a project, and we're not dismissing marketing, it is important. The wrong part is only marketing and not delivering.
 
 ### Tokenomics
 
