@@ -4,7 +4,7 @@ description: HARDCODING ETHICS - The TAO for DAO
 
 # Philosophy
 
-_"The Tao is not something different from nature, from ourselves, from our surrounding trees and waters and air. The Tao is the way all that behaves. And so the basic Chinese idea of the universe is really that it’s an organism.”_ - Alan Watts
+> _"The Tao is not something different from nature, from ourselves, from our surrounding trees and waters and air. The Tao is the way all that behaves. And so the basic Chinese idea of the universe is really that it’s an organism.”_ - Alan Watts
 
 Kind of ironic, when examining the Taoist philosophy of "action without deliberation" and drawing some analogies in the business context, we will provoke a mature conversation on the need for having taken a more proactive and thoughtful approach to the law and adopted voluntarily commitments that imply a deeper, broader, more conscious and thoughtful consideration about human values, autonomy and social interaction.
 
