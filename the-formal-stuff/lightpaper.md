@@ -2,7 +2,11 @@
 
 ### Introduction
 
-KAROSHI is the genesis collection, consisting of 10000 Ninjas and Samurais with over 200 individual traits. We are a Web 3.0 brand that makes social impact by building the right things, creating a synergy between technology and people, raising awareness about modern problems, and are passionate about what we are doing. Our goal is to build a community and give that community a way to represent itself online. We don't want to copy any successful projects, instead we are going to take another way.
+KAROSHI is the genesis collection, consisting of 10000 Ninjas and Samurais with over 200 individual traits. We are a Web 3.0 brand that makes social impact by building the right things, creating a synergy between technology and people, raising awareness about modern problems, and are passionate about what we are doing.&#x20;
+
+We learned a lot from successful, as well as from failed projects. We know you did too. We learned from our mistakes. We got out of the comfort zone and we learned to work in a team. We learned to think outside the box and manage our time. We learned to be creative, we also learned what patience means. We know where to be persistent and where to be flexible. Now is the time to do the change. Our goal to build a community and give that community a way to represent itself online. We don't need to copy any successful projects to make this work, instead we are going to take another approach by involving you, the community, in the entire process. Why?
+
+Because, we want to build something that the community wants, not what we think you want. Great! Now that we cleared that out, we need all the help we can get. You can help by giving us proposals, vote on them, feedback on the proposals, writing code, writing documentation, or just telling other people about us. All of this helps in making this happen.
 
 ### Background
 
@@ -48,7 +52,7 @@ We believe that there is no “best” way to do things, but there is a “right
 
 ### Staking
 
-Crypto staking is nothing new. The concept has been around for quite some time — people staking their crypto assets to validate transactions, it creates scarcity as circulating supply becomes less and earn rewards in exchange. This method allows you to earn interest on your crypto without having to sell it. The longer the staking period, the higher the rewards, but the lower the security. The shorter the staking period, the lower the rewards and the higher the security. We will have three types of staking. NFT stacking, $ROSHI staking and and both. Each with their benefits and drawbacks.
+Crypto staking is nothing new. The concept has been around for quite some time — people staking their crypto assets to validate transactions, it creates scarcity as circulating supply becomes less and earn rewards in exchange. This method allows you to earn interest on your crypto without having to sell it. The longer the staking period, the higher the rewards, but the lower the security. The shorter the staking period, the lower the rewards and the higher the security. We will have three types of staking. NFT stacking, $ROSHI staking and and both. Each with their benefits and drawbacks. NFT staking will be calculated based on rarity and time staked. $ROSHI staking will be calculated based on the amount and time staked. Staking both will give you additional rewards and perks. There is no minimum amount of NFT's or $ROSHI required to stake. However, the higher the amount staked, the higher the reward. Staking rewards are paid out daily and unstaking will reset the staking compounding factor.
 
 ### Evolution
 
