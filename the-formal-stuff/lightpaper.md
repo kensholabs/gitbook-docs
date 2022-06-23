@@ -22,11 +22,15 @@ To make sure that every holder has a big enough percentage of the total supply t
 
 #### Let’s go over some important factors that will help us determine whether the tokenomics of a project is a utility token.
 
-The token that has been created has a purpose within the project. The token is used to fuel the ecosystem, and it is integral to the functioning of the project.
+The token that has been created has a purpose within the project.
 
-The token is needed in order to use the platform or service that is being provided. Without the token, the platform or service would not be accessible.
+The token is used to fuel the ecosystem, and it is integral to the functioning of the project.
 
-The token is scarce in order to ensure that it retains its value. If the token is too abundant, it will lose its value.
+The token is needed in order to use the platform or service that is being provided.
+
+Without the token, the platform or service would not be accessible.
+
+The token is scarce in order to ensure that it retains its value.
 
 The token confers a right or a privilege to the token holder.
 
@@ -53,8 +57,6 @@ NFT evolution is the process of making NFT collectibles more valuable by increas
 The first step in NFT evolution is to make the collectibles more useful. This will be done by adding new features or improving existing ones. For example, you will be able to spend $ROSHI tokens and work with our designers to evolve your NFT and make it more useful by adding unique features or identifiers in metadata that allows it to be tracked on a blockchain.&#x20;
 
 The second step in NFT evolution is to make the collectibles more rare. This will be done by limiting the supply of the collectibles or by making them harder to obtain. For example, an NFT could be made more rare by only allowing it to be obtained through special events or by requiring collectors to have a certain number of other NFTs before they can obtain the rare collectible. As NFTs evolve, they gain additional data fields and functionality.
-
-
 
 ### Degens
 
