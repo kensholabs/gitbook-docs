@@ -1,6 +1,6 @@
 # KAROSHI DEGENS
 
-#### For the true degenerates of you! | https://degens.karoshi.studio/
+#### For the true degenerates of you! | [https://degens.karoshi.studio/](https://degens.karoshi.studio/)
 
 ![](../.gitbook/assets/image.png)
 
