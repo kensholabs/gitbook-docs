@@ -14,7 +14,11 @@ If the NFT space is going to survive and thrive in the long run, it needs to att
 
 ### Tokenomics
 
-We're laying out a detailed plan with allocation of the proceeds. We will make all processes transparent and trackable before we mint. To make sure that the project can be self-sustaining after the launch. To make sure that every holder has a big enough percentage of the total supply to give them a relevant stake. To make sure that what we create is a liquid asset that can be bought and sold in the open market we should make sure that we structure the tokenomics and dynamics of the token in such a way that it is attractive to a wider audience than just the community members. We have to work out the right tokenomics. The tokenomics of a project is a very important aspect to consider when conducting a thorough analysis. The tokenomics of a project will determine whether the project is actually a utility token or simply another useless token. Our ecosystem will be powered by $ROSHI token.
+We're laying out a detailed plan with allocation of the proceeds. We will make all processes transparent and trackable before we mint. To make sure that the project can be self-sustaining after the launch, this is our initial representation of proceeds.
+
+![](<../.gitbook/assets/Capital Allocation.png>)
+
+To make sure that every holder has a big enough percentage of the total supply to give them a relevant stake. To make sure that what we create is a liquid asset that can be bought and sold in the open market we should make sure that we structure the tokenomics and dynamics of the token in such a way that it is attractive to a wider audience than just the community members. We have to work out the right tokenomics. The tokenomics of a project is a very important aspect to consider when conducting a thorough analysis. The tokenomics of a project will determine whether the project is actually a utility token or simply another useless token. Our ecosystem will be powered by $ROSHI token with the help of some clever dynamics based on incentives and gamified on-chain utilities.
 
 #### Let’s go over some important factors that will help us determine whether the tokenomics of a project is a utility token.
 
@@ -50,9 +54,7 @@ The first step in NFT evolution is to make the collectibles more useful. This wi
 
 The second step in NFT evolution is to make the collectibles more rare. This will be done by limiting the supply of the collectibles or by making them harder to obtain. For example, an NFT could be made more rare by only allowing it to be obtained through special events or by requiring collectors to have a certain number of other NFTs before they can obtain the rare collectible. As NFTs evolve, they gain additional data fields and functionality.
 
-### Derivatives
 
-At
 
 ### Degens
 
@@ -70,11 +72,8 @@ The program will encourage and support independent artists that need access to t
 
 ### Social Causes
 
-
+The fact that crypto can offer economic empowerment is a huge value proposition in the social impact space. We think about how crypto can help with things like access to financial services but actually their implications besides the financial system are no less important and it has the potential to create a lot of social good. It is clear that mental health is a serious issue in the crypto community, and it is important to be aware of the resources available for those who are struggling. Sometime when we feel overwhelmed or lost, we need support, we need a push from the outside. We've partnered with BetterHelp to give some of our community members the help they need. Some of our suicidal samurais will find out a gift in the metadata. You can trade it for another or you could just help a person in need.
 
 ### Hidden Gems
 
-
-
-
-
+You will find out that apart from traits, our metadata will contains some special codes. These codes  are redeemable or transferable and logging in with your wallet you can see what your code represents and also what actions can you do with it. If you sell your NFT without redeeming the code you will lose the right. The codes will be redeemable once.
