@@ -14,4 +14,5 @@
 ## The Formal Stuff
 
 * [Roadmap](the-formal-stuff/requesting-time-off.md)
+* [KAROSHI DEGENS](the-formal-stuff/karoshi-degens.md)
 * [Lightpaper](the-formal-stuff/lightpaper.md)
