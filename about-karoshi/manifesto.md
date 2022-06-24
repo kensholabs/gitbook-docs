@@ -5,6 +5,12 @@ then how can they intimidate you?\
 If you aren't afraid of dying,\
 there is nothing you cannot do.
 
+Not-knowing is true knowledge.\
+Presuming to know is a disease.\
+Failure is an opportunity.\
+If you blame someone else,\
+there is no end to the blame.
+
 If you overly esteem talented individuals,\
 people will become overly competitive.\
 If you overvalue possessions,\
@@ -19,17 +25,14 @@ weakening their ambitions,\
 and making them become strong.
 
 Preferring simplicity and freedom from desires,\
-avoiding the pitfalls of knowledge and wrong action.
-
+avoiding the pitfalls of knowledge and wrong action.\
 For those who practice not-doing,\
 everything will fall into place.
 
 Forget about knowledge and wisdom,\
-and people will be a hundred times better off.
-
+and people will be a hundred times better off.\
 Throw away charity and righteousness,\
-and people will return to brotherly love.
-
+and people will return to brotherly love.\
 Throw away profit and greed,\
 and there won't be any thieves.
 
