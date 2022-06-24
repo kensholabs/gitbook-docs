@@ -84,4 +84,4 @@ The fact that crypto can offer economic empowerment is a huge value proposition 
 
 You will find out that apart from traits, our metadata will contains some special codes. These codes  are redeemable or transferable and logging in with your wallet you can see what your code represents and also what actions can you do with it. If you sell your NFT without redeeming the code you will lose the right. The codes will be redeemable once.
 
-A small percentage of the NFT's will also have a non standard gender. It will be in no way impacting the just rarity, so now you know, we got you!
+A small percentage of the NFT's will also have a non standard gender. It will be in no way impacting utility just rarity, so now you know, we got you!
