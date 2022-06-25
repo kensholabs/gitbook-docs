@@ -10,4 +10,4 @@ coverY: 0
 
 In this section we will try to give you a glimpse into our philosophy and what pushed us to begin working on KAROSHI and create this community.
 
-It may be a lot to read, but no one said it will be easy. Great things are not built in one night. Take the time, decide if you relate to our values and you want to be a part of us.
+Great things are not built in one night. Take the time, decide if you relate to our values and you want to be a part of us.
