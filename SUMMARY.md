@@ -17,3 +17,4 @@
 * [Lightpaper](the-formal-stuff/lightpaper.md)
 * [KAROSHI DEGENS](the-formal-stuff/karoshi-degens.md)
 * [Random bits](the-formal-stuff/random-bits.md)
+* [Legal Disclaimer](the-formal-stuff/legal-disclaimer.md)
