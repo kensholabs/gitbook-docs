@@ -19,5 +19,7 @@
 * [DAO Overview](the-formal-stuff/dao-overview/README.md)
   * [How it works](the-formal-stuff/dao-overview/how-it-works.md)
   * [Thresholds](the-formal-stuff/dao-overview/thresholds.md)
+  * [Proposals](the-formal-stuff/dao-overview/proposals.md)
+  * [Voting](the-formal-stuff/dao-overview/voting.md)
 * [Random bits](the-formal-stuff/random-bits.md)
 * [Legal Disclaimer](the-formal-stuff/legal-disclaimer.md)
