@@ -16,7 +16,7 @@ The waters are just yet being tested and a lot innovation must take place until 
 
 If the NFT space is going to survive and thrive in the long run, it needs to attract more artists. It needs to be a space where artists feel welcomed and supported, not a space where they feel like they’re being taken advantage of.
 
-### Tokenomics
+### Capital Allocation & Tokenomics
 
 We're laying out a detailed plan with allocation of the proceeds. We will make all processes transparent and trackable before we mint. To make sure that the project can be self-sustaining after the launch, this is our initial representation of proceeds.
 
