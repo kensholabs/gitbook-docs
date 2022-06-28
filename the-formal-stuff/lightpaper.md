@@ -24,6 +24,8 @@ We're laying out a detailed plan with allocation of the proceeds. We will make a
 
 To make sure that every holder has a big enough percentage of the total supply to give them a relevant stake. To make sure that what we create is a liquid asset that can be bought and sold in the open market we should make sure that we structure the tokenomics and dynamics of the token in such a way that it is attractive to a wider audience than just the community members. We have to work out the right tokenomics. The tokenomics of a project is a very important aspect to consider when conducting a thorough analysis. The tokenomics of a project will determine whether the project is actually a utility token or simply another useless token. Our ecosystem will be powered by $ROSHI token with the help of some clever dynamics based on incentives and gamified on-chain utilities.
 
+![](../.gitbook/assets/ROSHI.TOKENOMICS.1.png)
+
 #### Let’s go over some important factors that will help us determine whether the tokenomics of a project is a utility token.
 
 The token that has been created has a purpose within the project.
