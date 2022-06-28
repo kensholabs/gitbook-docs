@@ -10,7 +10,7 @@ The crypto world is full of characters. From the anonymous creator of Bitcoin, S
 
 And that’s a good thing. The crypto world is a place for misfits, for people who don’t fit into the traditional financial system. It’s a place for people who are fascinated by the power of technology, and who want to use it to build something new. And that’s why the crypto world is such a vibrant and interesting place. It’s full of people who are passionate about what they’re doing, and who are constantly pushing the boundaries of what is possible. The word "degen" is a combination of the words "degenerate" and "generation". It is used to describe a group of people who are not afraid to be themselves, and who are not afraid to break the norms.
 
-The degen culture is also associated with a DIY (do it yourself) ethic. This is because many degens are not afraid to experiment, and to try new things. This is in contrast to the counterculture, which often relies on the approval of others.
+The degen culture is also associated with a DIY (do it yourself) ethic. This is because degens are not afraid to experiment, and to try new things. This is in contrast to the counterculture, which often relies on the approval of others.
 
 If crypto has taught us anything, it's that we are all degens, whether we want to acknowledge it or not. Degen is not community, degen is a way of life. Whether you are aping into this new hyped project, you get rekt shorting the bottom on 100x leverage, or you became a bagholder waiting for that lambo, you are truly a degen.&#x20;
 
