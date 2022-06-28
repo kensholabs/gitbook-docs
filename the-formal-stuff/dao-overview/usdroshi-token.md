@@ -12,4 +12,8 @@ The $ROSHI token is tradeable on any exchange and storable on any wallet that ha
 
 The total amount of $ROSHI tokens is 25,000,000.
 
+### **What is the token distribution?**
+
+The distribution breakdown is designed to facilitate the decentralization and make sure power doesn’t reside in the hands of a few. View more in the Lightpaper.
+
 ​
