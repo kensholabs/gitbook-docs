@@ -16,5 +16,6 @@
 * [Roadmap](the-formal-stuff/requesting-time-off.md)
 * [Lightpaper](the-formal-stuff/lightpaper.md)
 * [KAROSHI DEGENS](the-formal-stuff/karoshi-degens.md)
+* [DAO Overview](the-formal-stuff/dao-overview.md)
 * [Random bits](the-formal-stuff/random-bits.md)
 * [Legal Disclaimer](the-formal-stuff/legal-disclaimer.md)
