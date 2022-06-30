@@ -17,7 +17,7 @@ We are going to achieve this by providing real utilities that people use, social
 
 Karoshi is truly owned and led by the community, and WAGMI for sure! The question is: Are you going to build with us or you're gonna fomo into the next rug and blame the industry as a whole?
 
-We're not promising you the moon, we're promising you a great journey!
+We're not promising you the moon, we're promising you a great journey! Let's create long term value instead of short term profits!
 
 ## Our Values
 
