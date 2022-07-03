@@ -7,7 +7,7 @@ coverY: 0
 
 ## Our Vision
 
-The essential idea of a DAO is to automate all of the agreements needed to coordinate a group of individuals to accomplish the work of an organization – in other words, to replace the centralized overhead of a conventional business with code. Philosophy can also be applied to goal setting and strategy formulation. In general, we believe that it is better to have a simple, clear plan that can be executed quickly and efficiently rather than a complex plan that takes a long time to develop and implement. Some have cautioned that not all decentralized structures are truly autonomous unless control is ceded to code, as opposed to human control.&#x20;
+The essential idea of a DAO is to replace the centralized overhead of a conventional business with code, automating the organizational flow. Philosophy can also be applied to goal setting and strategy formulation. In general, we believe that it is better to have a simple, clear plan that can be executed quickly and efficiently rather than a complex plan that takes a long time to develop and implement. Some have cautioned that not all decentralized structures are truly autonomous unless control is ceded to code, as opposed to human control.&#x20;
 
 And we have a lot of anti-examples where some actors only use the buzz words without any intention to be truly autonomous nor decentralized. This has brought the crypto space to a point where projects "getting hacked" is the new norm and it's even become normalized. Even though some aspects of a blockchain can be hacked, like smart contracts, wallets, or people through phishing or social engineering, the underlying fundamental are secure and with over a decade of proof. It all comes down to human factor and the use of technology.
 
