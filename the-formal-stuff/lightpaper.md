@@ -67,7 +67,7 @@ NFT evolution is the process of making NFT collectibles more valuable. This incl
 
 The first step in NFT evolution is to make the collectibles more rare and unique. This will be done by adding new features or improving existing ones. For example, you will be able to spend $ROSHI tokens and work with our designers to evolve your NFT and make it more useful by adding unique features and identifiers in metadata that allows it to be tracked on the blockchain.&#x20;
 
-The second step in NFT evolution is to make the collectibles more useful. This means that as the technology behind them improves, so too will the NFT's themselves. As NFTs evolve, they gain additional data fields and functionality which enables new utility cases and rewards. This not only benefits the owners of NFTs, but also helps to drive adoption of the technology.
+The second step in NFT evolution is to make the collectibles more useful. This means that as the technology behind them improves, so too will the NFT's themselves. As NFTs evolve, they gain additional data fields and functionality which enables new utility cases and rewards. This not only benefits the owners of NFTs, but also helps to drive adoption of the technology. This additional data and functionality can take the form of new game mechanics, new art, or new interactions with other NFTs.
 
 The evolution will have two possible paths. You will either evolve your existing NFT into a different 1/1 version of it or you will be able to sacrifice it, essentially by committing seppuku and burn it and in reward your NFT will be reborn into another version of it. By committing seppuku your NFT will be part of another collection more limited in supply but by evolving it it will remain in the same collection.
 
