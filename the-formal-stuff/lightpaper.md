@@ -56,7 +56,10 @@ We believe that there is no “best” way to do things, but there is a “right
 
 ### Staking
 
-Crypto staking is nothing new. The concept has been around for quite some time — people staking their crypto assets to validate transactions, as circulating supply becomes less available it creates scarcity and users earn rewards in exchange. This method allows you to earn interest on your crypto without having to sell it. The longer the staking period, the higher the rewards, but the lower the security. The shorter the staking period, the lower the rewards and the higher the security. We will have three types of staking. NFT stacking, $ROSHI staking and and both. Each with their benefits and drawbacks. NFT staking will be calculated based on rarity and time staked. $ROSHI staking will be calculated based on the amount and time staked. Staking both will give you additional rewards and perks. There is no minimum amount of NFT's or $ROSHI required to stake. However, the higher the amount staked, the higher the reward. Staking rewards are paid out daily and unstaking will reset the staking compounding factor.
+Crypto staking is nothing new. The concept has been around for quite some time — people staking their crypto assets to validate transactions, as circulating supply becomes less available it creates scarcity and users earn rewards in exchange. This method allows you to earn interest on your NFT's and crypto without having to sell it. The longer the staking period, the higher the rewards, but the lower the security. The shorter the staking period, the lower the rewards and the higher the security.
+
+We have three types of staking. NFT stacking, $ROSHI staking and and both. Each with their benefits and drawbacks. NFT staking will be calculated based on rarity and time staked. $ROSHI staking will be calculated based on the amount and time staked. Staking both will give you additional rewards and perks.\
+There is no minimum amount of NFT's or $ROSHI required to stake. However, the higher the amount staked, the higher the reward. Staking rewards are paid out daily and unstaking will reset the staking compounding factor.
 
 ### Evolution
 
