@@ -63,11 +63,13 @@ There is no minimum amount of NFT's or $ROSHI required to stake. However, the hi
 
 ### Evolution
 
-NFT evolution is the process of making NFT collectibles more valuable by increasing their utility, rarity, and popularity.
+NFT evolution is the process of making NFT collectibles more valuable. This includes adding new features, improving the quality of the art, and increasing the rarity of the items.&#x20;
 
-The first step in NFT evolution is to make the collectibles more useful. This will be done by adding new features or improving existing ones. For example, you will be able to spend $ROSHI tokens and work with our designers to evolve your NFT and make it more useful by adding unique features or identifiers in metadata that allows it to be tracked on a blockchain.&#x20;
+The first step in NFT evolution is to make the collectibles more rare and unique. This will be done by adding new features or improving existing ones. For example, you will be able to spend $ROSHI tokens and work with our designers to evolve your NFT and make it more useful by adding unique features and identifiers in metadata that allows it to be tracked on the blockchain.&#x20;
 
-The second step in NFT evolution is to make the collectibles more rare. This will be done by limiting the supply of the collectibles or by making them harder to obtain. For example, an NFT could be made more rare by only allowing it to be obtained through special events or by requiring collectors to have a certain number of other NFTs before they can obtain the rare collectible. As NFTs evolve, they gain additional data fields and functionality.
+The second step in NFT evolution is to make the collectibles more useful. This means that as the technology behind them improves, so too will the NFT's themselves. As NFTs evolve, they gain additional data fields and functionality which enables new utility cases and rewards. This not only benefits the owners of NFTs, but also helps to drive adoption of the technology.
+
+The evolution will have two possible paths. You will either evolve your existing NFT into a different 1/1 version of it or you will be able to sacrifice it, essentially by committing seppuku and burn it and in reward your NFT will be reborn into another version of it. By committing seppuku your NFT will be part of another collection more limited in supply but by evolving it it will remain in the same collection.
 
 ### Degens
 
