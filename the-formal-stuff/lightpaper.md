@@ -2,7 +2,7 @@
 
 ### Introduction
 
-KAROSHI is the genesis collection, consisting of 10000 Ninjas and Samurais with over 200 individual traits. We are a Web 3.0 brand that makes social impact by building the right things, creating a synergy between technology and people, raising awareness about modern problems, and are passionate about what we are doing.&#x20;
+KAROSHI is the genesis collection, consisting of 10000 Ninjas and Samurais with over 200 individual traits. We are a Web 3.0 brand that with a team that is passionate about what we are doing and we are here to make a social impact by building the right things, creating synergy between technology and people and raising awareness about modern problems.&#x20;
 
 We learned a lot from successful, as well as from failed projects. We know you did too. We learned from our mistakes. We got out of the comfort zone and we learned to work in a team. We learned to think outside the box and manage our time. We learned to be creative, we also learned what patience means. We know where to be persistent and where to be flexible. Now is the time to do the change. Our goal to build a community and give that community a way to represent itself online. We don't need to copy any successful projects to make this work, instead we are going to take another approach by involving you, the community, in the entire process. Why?
 
