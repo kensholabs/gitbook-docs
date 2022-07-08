@@ -8,3 +8,5 @@ Choosing to remain anon but striving for transparency, internally we came to a s
 `Concept Designer \`\
 [@Rhemaxos](https://twitter.com/RhemaxosArt) - Digital Artist , experienced working as concept artist, 3D modeller and designer on projects in fashion, music and animation, currently combining all his knowledge to deliver fresh visual experiences.
 
+`Full-Stack Ninja \`\
+`Yaketsuki`- ///
