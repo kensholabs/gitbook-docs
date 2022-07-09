@@ -2,7 +2,7 @@
 
 ### Introduction
 
-KAROSHI is the genesis collection, consisting of 10000 Ninjas and Samurais with over 200 individual traits. We are a Web 3.0 brand with a team that is passionate about what we are doing and we are here to make a social impact by building the right things, creating synergy between technology and people and raising awareness about modern problems.&#x20;
+KAROSHI is the genesis collection, consisting of 10000 Ninjas and Samurais with over 200 individual traits and abilities, each unique with its own skill tree. We are a Web 3.0 brand with a team that is passionate about what we are doing and we are here to make a social impact by building the right things, creating synergy between technology and people and raising awareness about modern problems.&#x20;
 
 We learned a lot from successful, as well as from failed projects. We know you did too. We learned from our mistakes. We got out of the comfort zone and we learned to work in a team. We learned to think outside the box and manage our time. We learned to be creative, we also learned what patience means. We know where to be persistent and where to be flexible. Now is the time to do the change. Our goal to build a community and give that community a way to represent itself online. We don't need to copy any successful projects to make this work, instead we are going to take another approach by involving you, the community, in the entire process. Why?
 
@@ -73,7 +73,7 @@ The evolution will have two possible paths. You will either evolve your existing
 
 ### Degens
 
-Degens is a social experiment. It's an experiment to test society, an experiment to test game theory dynamics and of course an experiment to test the community and humans in general. The game has mixed incentives, it requires cooperation to make the game work, but it also has a competitive element where you want to get the best possible outcome for yourself. And actually, we think the problem-solving nature of the game is actually really interesting because it's not necessarily about speed, it's about figuring out the best way to solve the puzzle. One of the things we're trying to do with this game is actually create a new genre. So we're trying to create something that's really unique, and we think that people are going to have a lot of fun playing it. You can find out more by visiting the game page.
+Degens is a social experiment. It's an experiment to test society, an experiment to test game theory dynamics and of course an experiment to test the community and humans in general. The game has mixed incentives, it requires cooperation to make the game work, but it also has a competitive element where you want to get the best possible outcome for yourself. And actually, we think the problem-solving nature of the game is actually really interesting because it's not necessarily about speed, it's about figuring out the best way to solve the puzzle. In DEGENS you will need to use your brain as well as your reflexes to solve puzzles and defeat enemies. One of the things we're trying to do with this game is actually create a new genre. So we're trying to create something that's really unique, and we think that people are going to have a lot of fun playing it. You can find out more by visiting the game page.
 
 ### Music NFT Licensing Protocol
 
