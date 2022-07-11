@@ -1,8 +1,10 @@
 # A pragmatic approach
 
+![](<../.gitbook/assets/image (1).png>)
+
 Please note that while Kensho Labs is kickstarting the project, we are not trying to rule it and our developers will be a part the DAO, acting like an in house team and working by agile/XP methodologies on products.
 
-There are at least three ways, broadly speaking, that ethics could be automated. First, there is mandating obligatory actions – the equivalent of “thou shalt.” Second, there is barring unacceptable actions – or “thou shalt not.” Third, there is requiring offsets, whereby causing a harm triggers an action that causes a benefit, such that the amount of net harm totals zero.
+In this project we are using Taoism to frame two implications of hardcoding ethical rules of an organization. The first is the central Taoist theme of action without deliberation, and the second being action that is consistent with natural laws. There are at least three ways, broadly speaking, that ethics could be automated. First, there is mandating obligatory actions – the equivalent of “thou shalt.” Second, there is barring unacceptable actions – or “thou shalt not.” Third, there is requiring offsets, whereby causing a harm triggers an action that causes a benefit, such that the amount of net harm totals zero.
 
 This leads us to a brief technical tangent to discuss more precisely how to hardcode ethics before we discuss what entities could – and may want – to pursue this practice. The key reason that one could question the credibility of blockchain-enabled applications adopted by conventional corporations is that access and control is still centralized – the organization’s leadership ultimately can change the code, alter records, and control access. One solution to this is fairly simple. Access – even one node – can be shared with an independent and credible third-party observer such as a government regulatory agency, so that attempts to illegitimately alter records would be detectable but this kind of defeats the whole point of crypto, which is a trustless, anonymous environment.
 
