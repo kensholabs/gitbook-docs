@@ -16,11 +16,15 @@ The total amount of $ROSHI tokens is 25,000,000.
 
 The distribution breakdown is designed to facilitate the decentralization and make sure power doesn’t reside in the hands of a few. See more in the Lightpaper.
 
+### What is a Presale?
+
+Presale is a closed round of funding that lets crypto investors buy the necessary tokens at a discounted price before the official public sale.\
+You can submit your application on the KAROSHI website.
+
 ### Presale Details
 
 The presale supply is 3,750,000 $ROSHI tokens. All of the proceeds will go to the DAO treasury. \
-The starting price will be $0.05 and the sale will end on the NFT launch.\
-You can submit your application on the KAROSHI website.
+The starting price will be $0.05 and the sale will end on the NFT launch.
 
 ### ​Public Sale Details
 
