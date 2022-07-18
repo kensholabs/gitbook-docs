@@ -9,4 +9,7 @@ Choosing to remain anon but striving for transparency, internally we came to a s
 [@Rhemaxos](https://twitter.com/RhemaxosArt) - Digital Artist , experienced working as concept artist, 3D modeller and designer on projects in fashion, music and animation, currently combining all his knowledge to deliver fresh visual experiences.
 
 `Full-Stack Ninja \`\
-`Yaketsuki`- ///
+`Yaketsuki`- Full-stack developer who has worked in a lot of start-ups. Interests range from back-end, front-end, system management to mobile applications.
+
+`Community Manager \`\
+`Akira`-&#x20;
