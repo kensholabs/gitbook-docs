@@ -14,7 +14,7 @@
 
 ## The Formal Stuff
 
-* [Roadmap](the-formal-stuff/roadmap.md)
+* [Roadmap](the-formal-stuff/requesting-time-off.md)
 * [Lightpaper](the-formal-stuff/lightpaper.md)
 * [KAROSHI DEGENS](the-formal-stuff/karoshi-degens.md)
 * [DAO Overview](the-formal-stuff/dao-overview/README.md)
@@ -23,5 +23,6 @@
   * [Thresholds](the-formal-stuff/dao-overview/thresholds.md)
   * [Proposals](the-formal-stuff/dao-overview/proposals.md)
   * [Voting](the-formal-stuff/dao-overview/voting.md)
+  * [Token Distribution](the-formal-stuff/dao-overview/token-distribution.md)
 * [Random bits](the-formal-stuff/random-bits.md)
 * [Legal Disclaimer](the-formal-stuff/legal-disclaimer.md)
