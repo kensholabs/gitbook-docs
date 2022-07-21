@@ -14,7 +14,7 @@
 
 ## The Formal Stuff
 
-* [Roadmap](the-formal-stuff/requesting-time-off.md)
+* [Roadmap](the-formal-stuff/roadmap.md)
 * [Lightpaper](the-formal-stuff/lightpaper.md)
 * [KAROSHI DEGENS](the-formal-stuff/karoshi-degens.md)
 * [DAO Overview](the-formal-stuff/dao-overview/README.md)
