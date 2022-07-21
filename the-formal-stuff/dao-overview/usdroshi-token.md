@@ -12,10 +12,6 @@ The $ROSHI token is tradeable and storable on any wallet that has adopted the SP
 
 The total amount of $ROSHI tokens is 25,000,000.
 
-### **What is the $ROSHI token contract address?** <a href="#what-is-the-usdxyz-token-contract-address" id="what-is-the-usdxyz-token-contract-address"></a>
-
-​[L7RAdawwuSubqHFWCBnw8xLW6iCLT5PxYJrcGtFEch4](https://solscan.io/token/L7RAdawwuSubqHFWCBnw8xLW6iCLT5PxYJrcGtFEch4)
-
 ### **What is the token distribution?**
 
 The distribution breakdown is designed to facilitate the decentralization and make sure power doesn’t reside in the hands of a few. See more in the Lightpaper.
@@ -27,10 +23,10 @@ You can submit your application on the KAROSHI website.
 
 ### Presale Details
 
-The presale supply is 3,750,000 $ROSHI tokens. A part of the proceeds will go to the DAO treasury. and some will go towards funding some of the expenses. \
-The starting price will be $0.01 and the sale will end on the NFT launch. The token price for presale will be dynamic and will increase at a predefined rate until all 15% are sold.
+The presale supply is 3,750,000 $ROSHI tokens. All of the proceeds will go to the DAO treasury. \
+The starting price will be $0.05 and the sale will end on the NFT launch.
 
 ### ​Public Sale Details
 
-The supply for public sale will be 3,750,000 $ROSHI tokens. All of the proceeds will go to the DAO treasury. The starting price will be $0.2.
+The supply for public sale will be 3,750,000 $ROSHI tokens. All of the proceeds will go to the DAO treasury. The starting price will be $0.1.
 
