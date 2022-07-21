@@ -7,5 +7,5 @@ The tokens allocated to the Founding team, Investors, Contributors, and Advisors
 ### **How many $ROSHI tokens are released each week?**
 
 * Founding team: 4,500,000 (50 weeks)&#x20;
-* Investors: 7,500,000 (60 weeks)&#x20;
+* Investors: 5,000,000 (60 weeks)
 * Future contributors and team members: 1,000,000 (100 weeks)
