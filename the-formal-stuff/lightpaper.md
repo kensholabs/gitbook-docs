@@ -26,7 +26,7 @@ To make sure that every holder has a big enough percentage of the total supply t
 
 Total supply: 25 000 000 $ROSHI
 
-![](../.gitbook/assets/ROSHI.TOKENOMICS.1.png)
+![](<../.gitbook/assets/Token Distribution.png>)
 
 #### Let’s go over some important factors that will help us determine whether the tokenomics of a project is a utility token.
 
