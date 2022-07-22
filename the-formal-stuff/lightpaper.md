@@ -8,6 +8,16 @@ We learned a lot from successful, as well as from failed projects. We know you d
 
 Because, we want to build something that the community wants, not what we think you want. Great! Now that we cleared that out, we need all the help we can get. You can help by giving us proposals, vote on them, feedback on the proposals, writing code, writing documentation, or just telling other people about us. All of this helps in making this happen.
 
+| Staking Type         | Reward                                           |
+| -------------------- | ------------------------------------------------ |
+| NFT Staking          | 8 $ROSHI / day                                   |
+| $ROSHI Staking       | 12% APY paid daily in $sROSHI                    |
+| NFT + $ROSHI Staking | All of the above + 3% increase on the $ROSHI APY |
+
+#### Compounding factor:
+
+Users who stake for longer will get a 3% increase in rewards after first month and a 1% increase the following 5 months.
+
 ### Background
 
 NFT's are still in their infancy. The innovation that happened in the last 20 years with the internet will happen in the next 10 years in crypto. The blockchain allows enables us to prove the authenticity and uniqueness of the content but besides that there are a lot of technologies being developed around it to explore their full potential. There is no standard framework to guide the creators, also there is no easy way to apply it for every type of artwork or use case. Even though blockchains help a lot at cutting cost and lowering barriers to entry and making, it is not that user friendly, and this slows adoption. Because of that, our goal is to make technology simple to use and effective at achieving our goals and enabling people do what they are good at, making the world more fair.
