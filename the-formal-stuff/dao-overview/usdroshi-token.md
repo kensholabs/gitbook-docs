@@ -8,6 +8,17 @@ The $ROSHI token is tradeable and storable on any wallet that has adopted the SP
 
 **The $ROSHI token is a governance token that powers the KAROSHI DAO.**
 
+### **What is the $sROSHI token?**
+
+Unlike most staking solutions that currently exist, **KAROSHI** uses a **dual token model** to mirror the workings of the underlying blockchain network very closely and provide a way to make user tokens more liquid.
+
+Users deposit their native PoS $ROSHI tokens in the smart contract to mint and receive an equal amount of **sROSHI** which are 1:1 pegged SPL interest bearing tokens, representing staked tokens on the PoS network. Users may choose to use sROSHI for entering/voting/proposing in the DAO or use them to get more yield in the DeFi ecosystem.
+
+$ROSHI accrue staking rewards in the form of $sROSHI, thus mirroring the workings of most PoS networks. As an example, when users stake $ROSHI, the staking rewards can be claimed at any point in time and are completely liquid, thus giving the users an option to either sell their rewards or restake them to compound their rewards. These can then be redeemed for the native token instantly.
+
+\
+
+
 ### **What is $ROSHI token total supply?** <a href="#what-is-usdxyz-token-total-supply" id="what-is-usdxyz-token-total-supply"></a>
 
 The total amount of $ROSHI tokens is 25,000,000.
