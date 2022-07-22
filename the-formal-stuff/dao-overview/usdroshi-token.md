@@ -24,6 +24,10 @@ The total amount of $ROSHI tokens is 25,000,000.
 
 ​[L7RAdawwuSubqHFWCBnw8xLW6iCLT5PxYJrcGtFEch4](https://solscan.io/token/L7RAdawwuSubqHFWCBnw8xLW6iCLT5PxYJrcGtFEch4)
 
+### **What is the $sROSHI token contract address?** <a href="#what-is-the-usdxyz-token-contract-address" id="what-is-the-usdxyz-token-contract-address"></a>
+
+[3cG2gzk38hTh1QN3AYENYyWrfg2fDEpdLBCLKTTDp9fn](https://solscan.io/token/3cG2gzk38hTh1QN3AYENYyWrfg2fDEpdLBCLKTTDp9fn)
+
 ### **What is the token distribution?**
 
 The distribution breakdown is designed to facilitate the decentralization and make sure power doesn’t reside in the hands of a few. See more in the Lightpaper.
