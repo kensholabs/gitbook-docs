@@ -34,15 +34,15 @@ The distribution breakdown is designed to facilitate the decentralization and ma
 
 ### What is a Presale?
 
-Presale is a closed round of funding that lets crypto investors buy the necessary tokens at a discounted price before the official public listing.\
+Presale is a closed round of funding that lets crypto investors buy the necessary tokens at a discounted price before the official public sale.\
 You can submit your application on the KAROSHI website.
 
 ### Presale Details
 
-The presale supply is 2,500,000 $ROSHI tokens. All of the proceeds will go to the DAO treasury.\
+The presale supply is 3,750,000 $ROSHI tokens. A part of the proceeds will go to the DAO treasury. and some will go towards funding some of the expenses. \
 The starting price will be $0.05 and the sale will end on the NFT launch. The token price for presale will be dynamic and will increase at a predefined rate until all 10% are sold.
 
-### ​Public Listing Details
+### ​Public Sale Details
 
-The public listing will be after mint. The listing price will be $0.2.
+The supply for public sale will be 3,750,000 $ROSHI tokens. All of the proceeds will go to the DAO treasury. The starting price will be $0.2.
 
