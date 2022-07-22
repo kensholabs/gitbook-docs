@@ -28,7 +28,7 @@ You can submit your application on the KAROSHI website.
 ### Presale Details
 
 The presale supply is 3,750,000 $ROSHI tokens. A part of the proceeds will go to the DAO treasury. and some will go towards funding some of the expenses. \
-The starting price will be $0.01 and the sale will end on the NFT launch. The token price for presale will be dynamic and will increase at a predefined rate until all 15% are sold.
+The starting price will be $0.05 and the sale will end on the NFT launch. The token price for presale will be dynamic and will increase at a predefined rate until all 15% are sold.
 
 ### ​Public Sale Details
 
