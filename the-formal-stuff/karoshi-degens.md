@@ -1,10 +1,14 @@
+---
+description: THE SOCIAL EXPERIMENT
+---
+
 # KAROSHI DEGENS
 
 #### For the true degenerates of you! | [https://degens.karoshi.studio/](https://degens.karoshi.studio/)
 
 ![](../.gitbook/assets/image.png)
 
-### THE SOCIAL EXPERIMENT
+###
 
 Raffles in crypto are a pretty big thing and surely fun. We're taking them to the next level!
 
