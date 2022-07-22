@@ -6,9 +6,7 @@ description: THE SOCIAL EXPERIMENT
 
 #### For the true degenerates of you! | [https://degens.karoshi.studio/](https://degens.karoshi.studio/)
 
-![](../.gitbook/assets/image.png)
-
-###
+![](<../.gitbook/assets/image (2).png>)
 
 Raffles in crypto are a pretty big thing and surely fun. We're taking them to the next level!
 
@@ -57,8 +55,6 @@ When only 22 players are in the stage two, they enter stage 3.
 You can participate in raffles to win more or just wait.\
 When deadline is met, each player from Team 1 is randomly matched with one from team 2. The one with the most NFT's takes all. Gradually the 22 pieces are revealed over the course of the last 12 raffles
 
-***
-
 At the end of the game, the 22 winners get distributed 70% of the royalties from phase 1 based on their block size. They get delivered real version of the NFT block. They also are allowed to free claim an integral NFT of their block.\
 The real delivered piece will have an NFC chip embedded that guarantees its authenticity. The other 30% will be used for $ROSHI buybacks and providing liquidity.
 
@@ -66,7 +62,7 @@ Royalties from phase 2 will be split 50/50 between a charity and a public airdro
 
 
 
-_**People who decide to get their game rewards in $ROSHI will benefit of a 15% increase in their rewards.**_
+_**Players who decide to get their game rewards in $ROSHI will benefit of a 15% increase in their rewards.**_
 
 ***
 
@@ -78,8 +74,8 @@ Cooperate!
 
 #### Disclaimer
 
-> The spots in the game will be awarded just to holders that are willing to play it until the end and claim their spot by opting in. We are aware that due to the decentralized nature of things, some of the NFT's could get lost, others just held too much, or some players may not want to sell them. This is why if things don't go as planned, the game could end even if some players won't have 100% of the block, and as we say, this is a social experiment. Let market dynamics do the thing, we count on you!
+> The spots in the game will be awarded just to holders that are willing to play it until the end and claim their spot by opting in. We are aware that due to the decentralized nature of things, some of the NFT's could get lost, others just held too much, or some players may not want to sell them at all. This is why we reserve the right to freeze these tokens and if things don't go as planned, the game could end even if some players won't have 100% of the block, and as we say, this is a social experiment. Let market dynamics do the thing, we count on you!
 
-If you have an idea, we will be happy to hear!
+If you have an idea for improvement, we will be happy to hear!
 
 #### &#x20;
