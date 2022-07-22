@@ -34,7 +34,7 @@ The distribution breakdown is designed to facilitate the decentralization and ma
 
 ### What is a Presale?
 
-Presale is a closed round of funding that lets crypto investors buy the necessary tokens at a discounted price before the official public sale.\
+Presale is a closed round of funding that lets crypto investors buy the necessary tokens at a discounted price before the official public listing.\
 You can submit your application on the KAROSHI website.
 
 ### Presale Details
